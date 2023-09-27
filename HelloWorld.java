@@ -9,7 +9,10 @@ public class HelloWorld {
         public void navneet () {
             System.out.println("my name is navneet");
 
+            System.out.println("Hello, World! deeksha sahu");
+
             System.out.println("priyanka");
+
 
         }
 
